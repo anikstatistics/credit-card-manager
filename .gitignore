@@ -1,0 +1,11 @@
+# Personal data – never commit these
+data/
+*.db
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
